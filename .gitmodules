@@ -8,8 +8,10 @@
 	url = https://github.com/mages/chainladder
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "googleVis"]
 	path = googleVis
 	url = https://github.com/mages/googlevis
 	shallow = true
 	registered = true
+	oncran = true

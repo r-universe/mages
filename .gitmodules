@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ChainLadder"]
 	path = ChainLadder
 	url = https://github.com/mages/chainladder
-	shallow = true
-	registered = true
 [submodule "googleVis"]
 	path = googleVis
 	url = https://github.com/mages/googlevis
-	shallow = true
-	registered = true
